@@ -1,6 +1,7 @@
 # spinlattice
 
 ![CI](https://github.com/Maxter1476/spinlattice/actions/workflows/ci.yml/badge.svg)
+
 **2D Ising model Monte Carlo — Metropolis and Wolff cluster dynamics, validated
 against exact analytic results.**
 
