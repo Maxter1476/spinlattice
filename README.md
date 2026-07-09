@@ -92,7 +92,3 @@ The Hamiltonian is H = −J Σ_⟨ij⟩ sᵢsⱼ − h Σᵢ sᵢ with periodic 
 energies in units of J, temperatures in J/k_B. Susceptibility uses ⟨|m|⟩
 (finite lattices don't spontaneously break symmetry over long runs). Wolff
 moves are only detailed-balanced at h = 0 and the code enforces that.
-
-## License
-
-MIT
